@@ -5,3 +5,8 @@ gunicorn==19.5.0
 lockfile>=0.9
 # Uncoment for support ldap
 #django-auth-ldap==1.2.0
+libvirt-python
+libxml2-python
+numpy
+websockify
+pymysql
